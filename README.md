@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="assets/WWZ-Logo_2020_Blau.png" width="220">
+</p>
+
 # **Responsible Disclosure Policy**
 
 WWZ AG is committed to maintaining the security and reliability of its services and infrastructure. If you believe you have discovered a security vulnerability, we encourage you to report it to us responsibly.
