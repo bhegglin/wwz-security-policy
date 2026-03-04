@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="assets/WWZ-Logo_2020_Blau.png" width="220">
+  <img src="WWZ-Logo_2020_Blau_transparent.png" width="220">
 </p>
 
 # **Responsible Disclosure Policy**
